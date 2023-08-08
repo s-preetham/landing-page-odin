@@ -100,14 +100,14 @@ a {
 .rand-info {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-between;
     gap: 50px;
     margin-top: 30px;
     flex-wrap: wrap;
 }
 .rand-info img {
-    width: 120px;
-    height: 120px;
+    width: 140px;
+    height: 140px;
     border: 3px solid #3882F6;
     border-radius: 15px;
     padding: 0px;
@@ -118,7 +118,6 @@ a {
     flex-direction: column;
     align-items: center;
     width: 150px;
-    
 }
 .text {
     padding: 10px;
@@ -130,21 +129,21 @@ a {
     justify-content: center;
     align-items: center;
     background-color: #E5E7EB;
-    margin-top: 50px;
-    padding: 50px;
+    margin: 0;
+    padding: 120px 150px;
+    
 }
 .quote {
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
     background-color: #E5E7EB;
-    width: 800px;
     text-align: left;
 }
 .author {
     font-weight: 900;
     font-size: 24px;
-    width: 800px;
+    
     text-align: end;
 }
 .section-four {
