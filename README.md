@@ -1,6 +1,6 @@
 # landing-page-odin
 A landing page made using HTMl and CSS.  
-(./images/screen-shot.png)   
+![screen-shot](./images/screen-shot.png)   
 Live preview: https://s-preetham.github.io/landing-page-odin/  
 Photo by Torsten Dettlaff from Pexels: https://www.pexels.com/photo/black-coupes-70912/  
 Icon by https://freeicons.io/profile/3" icon king1 https://freeicons.io  
